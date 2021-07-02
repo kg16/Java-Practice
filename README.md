@@ -1,2 +1,1 @@
-# Java_Practice_codes
-From HackerRank track Java
+# HackerRank Java track
